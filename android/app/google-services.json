@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "297524310702",
+    "firebase_url": "https://brickart-app-dev.firebaseio.com",
+    "project_id": "brickart-app-dev",
+    "storage_bucket": "brickart-app-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297524310702:android:5082103060d96adca9b33f",
+        "android_client_info": {
+          "package_name": "com.brickart.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297524310702-2ru2e4bphb196fssg608al8bd762jiac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brickart.app",
+            "certificate_hash": "82312e6dac73565f52c78e05c39678675cf2c0a4"
+          }
+        },
+        {
+          "client_id": "297524310702-nvifuh8odt4gf9d2gtu8nf8ar2a4o5oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brickart.app",
+            "certificate_hash": "93f4f5759affdcc88260fafc69e84738712d8855"
+          }
+        },
+        {
+          "client_id": "297524310702-0cbdifrk7f8t6i6a1ncssmsv92co166q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlFu2lKlidNehh4kcs956RGYMTNNCW3jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297524310702-0cbdifrk7f8t6i6a1ncssmsv92co166q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297524310702-49tbk0ik4qsrcujr497pebbi79di6ou3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brickart.theapp",
+                "app_store_id": "1444716818"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

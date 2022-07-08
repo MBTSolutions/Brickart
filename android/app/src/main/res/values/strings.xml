@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme applied to the Android Window while the process is starting -->
+    <string name="app_name">brickart_client-master</string>
+
+    <!-- <string name="facebook_app_id">180918386322857</string>
+    <string name="fb_login_protocol_scheme">fb180918386322857</string> -->
+    <string name="facebook_app_id">579467667098758</string>
+    <string name="fb_login_protocol_scheme">fb579467667098758</string>
+    <string name="facebook_client_token">49971bc3dd7f45bdb91badd4fd7a14cc</string>
+
+
+    </resources>

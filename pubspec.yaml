@@ -1,0 +1,93 @@
+name: brickart_flutter
+description: Brickart client app version.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 2.0.0+24
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: 
+  firebase_analytics: 
+  firebase_auth:
+  cloud_firestore:
+  firebase_storage:
+  google_sign_in: 
+  cupertino_icons: 
+  persistent_bottom_nav_bar: 
+  rxdart: 
+  provider:
+  photo_manager: 
+  photo_widget: 
+  get: 
+  material_design_icons_flutter: 
+  intl: 
+  date_format: 
+  image_cropper: 
+  xml2json: 
+  mask_text_input_formatter: 
+  credit_card_validate: 
+  dio: 
+  flutter_open_whatsapp: 
+  shared_preferences: 
+  webview_flutter: 
+  # modal_progress_hud_nsn:
+  modal_progress_hud: 
+  loading_gifs:
+  flutter_facebook_login: 
+  flutter_facebook_auth:
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/paymentcards.png
+    - assets/brickart_white.png
+    - assets/pinkbrckart.png
+    - assets/icons/
+    - assets/images/
+    - assets/gridimage/
+    - assets/collectionImage/
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-regular.ttf
+          weight: 400
+        - asset: fonts/Montserrat-SemiBold.ttf
+          weight: 600
+        - asset: fonts/Montserrat-Bold.ttf
+          weight: 700
+
+    - family: OpenSans
+      fonts:
+        - asset: fonts/OpenSans-Bold.ttf
+          weight: 700
+        - asset: fonts/OpenSans-Regular.ttf
+          weight: 400
+
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Light.ttf
+          weight: 200
+
+
